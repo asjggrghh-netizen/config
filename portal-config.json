@@ -1,7 +1,7 @@
 {
   "app_name": "Secure Web Portal",
-  "start_url": "https://www.thedailystar.net/",
-  "allowed_domains": ["thedailystar.net"],
+  "start_url": "https://agri-wealth.bugfinder.app/",
+  "allowed_domains": ["thedailystar.net,agri-wealth.bugfinder.app"],
   "splash_screen": {
     "enabled": true,
     "fullscreen": true,
