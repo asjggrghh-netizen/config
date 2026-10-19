@@ -1,6 +1,6 @@
 {
   "app_name": "Secure Web Portal",
-  "start_url": "",
+  "start_url": "https://www.thedailystar.net/",
   "allowed_domains": ["*"],
   "splash_screen": {
     "enabled": true,
