@@ -15,6 +15,6 @@
   },
   "ui_colors": { "status_bar": "#10233f", "navigation_bar": "#08172b", "progress": "#36c6b4", "refresh": "#36c6b4", "accent": "#36c6b4" },
   "maintenance_mode": { "enabled": false, "title": "We’ll be back soon", "message": "We are performing scheduled maintenance. Please try again shortly.", "icon": "🛠️", "retry_enabled": true },
-  "security_policies": { "https_only": false, "ssl_pinning": false, "certificate_pins": [], "block_screenshots": true, "root_detection": "warn", "emulator_detection": "warn", "debugger_detection": "block", "disable_selection": false, "allow_external_links": true, "inspect_links": false },
+  "security_policies": { "https_only": false, "ssl_pinning": false, "certificate_pins": [], "block_screenshots": true, "root_detection": "warn", "emulator_detection": "warn", "debugger_detection": "block", "disable_selection": false, "allow_external_links": true, "inspect_links": true },
   "popups_and_notifications": { "welcome_popup": { "enabled": false, "title": "Welcome", "message": "Welcome back." }, "push_notifications": false }
 }
