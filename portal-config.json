@@ -1,7 +1,7 @@
 {
   "app_name": "Secure Web Portal Jahidul ",
   "start_url": "https://agri-wealth.bugfinder.app/",
-  "allowed_domains": [".com,.app"],
+  "allowed_domains": ["agri-wealth.bugfinder.app"],
   "splash_screen": {
     "enabled": true,
     "fullscreen": true,
